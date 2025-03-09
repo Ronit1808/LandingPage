@@ -199,7 +199,7 @@ body {
   }
 
   .logo {
-    font-size: 10px;
+    font-size: 14px;
   }
 
   .title-image-1 img{
@@ -215,6 +215,7 @@ body {
   .hero-description {
     margin: 0;
     max-width: 100%;
+    text-align: center;
   }
 }
 
@@ -239,10 +240,9 @@ body {
   align-items: center;
 }
 
-.star-icon {
-  margin-right: 8px;
+.star-icon img{
   vertical-align: middle;
-  margin-top: 8px;
+  margin-bottom: 10px;
 }
 
 .expertise-grid {
@@ -1061,8 +1061,9 @@ h2 {
   text-transform: uppercase;
 }
 
-.star-icon img {
-  margin-top: 10px;
+.Footer-star-icon img {
+  padding-top: 6px;
+  padding-right: 10px;
 }
 
 .lets-talk-container {
@@ -1168,8 +1169,8 @@ h2 {
     font-size: 14px;
   }
 
-  .star-icon img {
-    width: 15px;
+  .Footer-star-icon img {
+    width: 25px;
   }
 
   .copyright {

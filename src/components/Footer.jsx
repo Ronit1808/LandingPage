@@ -8,11 +8,11 @@ const Footer = () => {
       <div className="marquee-top">
         <Marquee>
         <span className="marquee-word">FLOW</span>
-        <span className="star-icon"> <img src='Star.png'/></span>
+        <span className="Footer-star-icon"> <img src='Star.png'/></span>
         <span className="marquee-word">FIGMA</span>
-        <span className="star-icon"><img src='Star.png'/></span>
+        <span className="Footer-star-icon"><img src='Star.png'/></span>
         <span className="marquee-word">DESIGNER</span>
-        <span className="star-icon"><img src='Star.png'/></span>
+        <span className="Footer-star-icon"><img src='Star.png'/></span>
         <span className="marquee-word">DEVELOPOR</span>
         </Marquee>
       </div>
