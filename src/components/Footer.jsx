@@ -13,7 +13,7 @@ const Footer = () => {
         <span className="Footer-star-icon"><img src='Star.png'/></span>
         <span className="marquee-word">DESIGNER</span>
         <span className="Footer-star-icon"><img src='Star.png'/></span>
-        <span className="marquee-word">DEVELOPOR</span>
+        <span className="marquee-word">DEVELOPER</span>
         </Marquee>
       </div>
       
